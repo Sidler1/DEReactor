@@ -8,7 +8,7 @@ monitor and failsafe automation for your draconic reactor
 
 ### what is this
 this is a computercraft LUA script that monitors everything about a draconic reactor, with a couple features to help keep it from exploding
-NB: This is for Minecraft 1.16+. You will need to edit references within the code for any version higher to reflect any changes made to Draconic Evolution past its 1.16+ release.
+NB: This is for Minecraft 1.18+. You will need to edit references within the code for any version higher to reflect any changes made to Draconic Evolution past its 1.18+ release.
 
 
 ### tutorial
@@ -47,7 +47,7 @@ you can find a very well made youtube tutorial on how to set this up [here](http
 * install this code via running the install script using these commands :
 
 ```
-> pastebin get 2qkBsGLm install
+> pastebin get CzVX5Dg9 install
 > install
 ```
 * modify `startup` if you wish to configure/alter any variables mentioned in the feature list, you'll find them at the top of the file

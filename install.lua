@@ -2,8 +2,8 @@
 --
 --
 
-local libURL = "https://raw.githubusercontent.com/coaber/DEReactor/master/lib/f.lua"
-local startupURL = "https://raw.githubusercontent.com/coaber/DEReactor/master/drmon.lua"
+local libURL = "https://raw.githubusercontent.com/yuuki1293/DEReactor/master/lib/f.lua"
+local startupURL = "https://raw.githubusercontent.com/yuuki1293/DEReactor/master/drmon.lua"
 local lib, startup
 local libFile, startupFile
 
